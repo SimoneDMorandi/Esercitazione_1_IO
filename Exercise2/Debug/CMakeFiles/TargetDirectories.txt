@@ -1,0 +1,3 @@
+C:/Users/simod/Dropbox (Politecnico Di Torino Studenti)/PC/Desktop/PCS2024_Exercises/Esercitazione_1_IO/Exercise2/Debug/CMakeFiles/MeanValue.dir
+C:/Users/simod/Dropbox (Politecnico Di Torino Studenti)/PC/Desktop/PCS2024_Exercises/Esercitazione_1_IO/Exercise2/Debug/CMakeFiles/edit_cache.dir
+C:/Users/simod/Dropbox (Politecnico Di Torino Studenti)/PC/Desktop/PCS2024_Exercises/Esercitazione_1_IO/Exercise2/Debug/CMakeFiles/rebuild_cache.dir
